@@ -1,5 +1,4 @@
 # hello-world
-First repository yo.
 
 About time I did this actually. Only been what, 2 years or so?
 
